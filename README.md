@@ -1,12 +1,12 @@
 # windows-set-static-ip
 
-![Platform](https://img.shields.io/badge/platform-Windows-blue)
-![Language](https://img.shields.io/badge/language-Batch%20Script-yellow)
-![Tool](https://img.shields.io/badge/tool-netsh-orange)
-![Protocol](https://img.shields.io/badge/protocol-IPv4-green)
-![Mode](https://img.shields.io/badge/mode-Static%20%26%20DHCP-red)
-![Runs In](https://img.shields.io/badge/runs%20in-CMD-purple)
-![License](https://img.shields.io/github/license/fouad-salehi/windows-set-static-ip)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge)
+![Language](https://img.shields.io/badge/language-Batch%20Script-F7DF1E?style=for-the-badge)
+![Tool](https://img.shields.io/badge/tool-netsh-F97316?style=for-the-badge)
+![Protocol](https://img.shields.io/badge/protocol-IPv4-22C55E?style=for-the-badge)
+![Mode](https://img.shields.io/badge/mode-Static%20%26%20DHCP-EF4444?style=for-the-badge)
+![Runs In](https://img.shields.io/badge/runs%20in-CMD-8B5CF6?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 ## About
 
